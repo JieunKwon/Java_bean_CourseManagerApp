@@ -1,0 +1,20 @@
+ 
+
+#lblMessage{  
+    -fx-text-fill: #1F50B5;  
+}
+
+#paneCourseView{
+    -fx-border-color: #9DCFFF;
+    -fx-background-color: #F8FFFF;
+    -fx-border-radius: 2; 
+}
+
+#lblInfomation{
+    -fx-text-fill: #1F50B5;  
+}
+
+#lblInfo2{
+    -fx-text-fill: #1F50B5;  
+    -fx-font-style:italic;
+}
