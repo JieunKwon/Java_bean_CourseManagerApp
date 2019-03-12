@@ -1,7 +1,7 @@
 
-# Java Project
+# Java Project - College Course Inventory Manager 
 
-# College Course Inventory Manager 
+@ Java Bean, Java FX for Window Form 
 
 @ created date : April 2018
 
