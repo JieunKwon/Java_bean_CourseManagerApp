@@ -53,14 +53,14 @@ Program Features
 
 
 - Main window for searching, modifying, deleting courses 
-<img src="images/Testimg1.JPG" width="50%">
 
-![TestImage](./images/Testimg1.JPG)
+<img src="images/Testimg1.JPG" width="600px">
 
-![TestImage](./images/Testimg2.JPG)
-
+<img src="images/Testimg2.JPG" width="600px">
+ 
 - sub window for adding new course informaion
-![TestImage](./images/Testimg3.JPG)
+
+<img src="images/Testimg3.JPG" width="600px">
 
 - sub window for searching course with keyword
 ![TestImage](./images/Testimg4.JPG)
