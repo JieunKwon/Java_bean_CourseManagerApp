@@ -53,7 +53,7 @@ Program Features
 
 
 - Main window for searching, modifying, deleting courses 
-<img src="images/Testimg1.JPG" width="400px">
+<img src="images/Testimg1.JPG" width="50%">
 
 ![TestImage](./images/Testimg1.JPG)
 
