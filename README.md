@@ -3,7 +3,7 @@
 
 @ Java Bean, Java FX for Window Form 
 
-@ created date : April 2018
+@ Created Date : April 2018
 
 
  Overview
@@ -11,7 +11,7 @@
 
 
 This project is developing a GUI application using  JavaFX framework. 
-It is based on College Course Inventory and the data is saved  in specific file. 
+It is based on College Course Inventory and the data is saved in specific file by written File I/O. 
   
 
  Project Description
@@ -35,7 +35,7 @@ It is based on College Course Inventory and the data is saved  in specific file.
 -------------------------
 
 
-- File I/O: read and write  items
+- File I/O: read and write items to the specified file
 
 - Search items
 
