@@ -11,6 +11,7 @@
 
 
 This project is developing a GUI application using  JavaFX framework. 
+
 It is based on College Course Inventory and the data is saved in specific file by written File I/O. 
   
 
